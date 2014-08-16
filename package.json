@@ -1,0 +1,17 @@
+{
+  "name": "signature-extract",
+  "version": "0.0.1",
+  "description": "Extract digital signatuer information from request headers",
+  "keywords": ["digital","signature","extract", "extraction","headers"],
+  "author": "John Henry <john@iamjohnhenry.com>",
+  "homepage": "https://github.com/johnhenry/signature-extract",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/johnhenry/signature-extract.git"
+  },
+  "main": "index",
+  "engines": {
+      "node"    : "0.10.x",
+      "express" : "0.4.x"
+      }
+}
