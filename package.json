@@ -1,6 +1,6 @@
 {
   "name": "signature-extract",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Extract digital signatuer information from request headers",
   "keywords": ["digital","signature","extract", "extraction","headers"],
   "author": "John Henry <john@iamjohnhenry.com>",
